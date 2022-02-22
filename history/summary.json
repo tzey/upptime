@@ -22,19 +22,19 @@
     "url": "https://www.noplastico.com",
     "icon": "https://favicons.githubusercontent.com/www.noplastico.com",
     "slug": "no-plastico",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2685,
-    "timeDay": 2906,
-    "timeWeek": 2710,
-    "timeMonth": 2685,
-    "timeYear": 2685,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2690,
+    "timeDay": 2846,
+    "timeWeek": 2720,
+    "timeMonth": 2690,
+    "timeYear": 2690,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 6
     }
   }
 ]
