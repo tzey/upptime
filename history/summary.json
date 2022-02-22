@@ -22,7 +22,7 @@
     "url": "https://www.noplastico.com",
     "icon": "https://favicons.githubusercontent.com/www.noplastico.com",
     "slug": "no-plastico",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2710,
     "timeMonth": 2685,
     "timeYear": 2685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   }
 ]
